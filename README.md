@@ -26,5 +26,5 @@ Consulte los ejemplos y utilitarios de formateo en la carpeta `docs/`.
 
 ---
 
-**Autor:** Security Analyst  
-**Licencia:** Uso Privado / Propietario
+**Autor:** Juan Carlos Araneda M.  
+**Licencia:** MIT License (consulte [LICENSE](LICENSE))
